@@ -1,0 +1,16 @@
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.AssemblyInfoInputs.cache
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.AssemblyInfo.cs
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Concatene\bin\Debug\net5.0\Concatene.exe
+C:\Users\WINDOWS\source\repos\Concatene\bin\Debug\net5.0\Concatene.deps.json
+C:\Users\WINDOWS\source\repos\Concatene\bin\Debug\net5.0\Concatene.runtimeconfig.json
+C:\Users\WINDOWS\source\repos\Concatene\bin\Debug\net5.0\Concatene.runtimeconfig.dev.json
+C:\Users\WINDOWS\source\repos\Concatene\bin\Debug\net5.0\Concatene.dll
+C:\Users\WINDOWS\source\repos\Concatene\bin\Debug\net5.0\Concatene.pdb
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.dll
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\refint\Concatene.dll
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.pdb
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\Concatene.genruntimeconfig.cache
+C:\Users\WINDOWS\source\repos\Concatene\obj\Debug\net5.0\ref\Concatene.dll
